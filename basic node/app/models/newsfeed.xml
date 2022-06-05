@@ -1,0 +1,79 @@
+<table border="1" class="table" width="100%">
+    <tr>
+      <th>Title</th>
+      <th>Release Date</th>
+      <th>Genre</th>
+      <th>Length</th>
+      <th>Director</th>
+    </tr>
+    <tr>
+      <td>Eternals</td>
+      <td>November 5, 2021</td>
+      <td>Action, Adventure</td>
+      <td>2h 36m</td>
+      <td>Chloé Zhao</td>
+    </tr>
+    <tr>
+      <td>Dune</td>
+      <td>October 22, 2021</td>
+      <td>Sci-fi, Adventure</td>
+      <td>2h 35m</td>
+      <td>Denis Villeneuve</td>
+    </tr>
+    <tr>
+      <td>No Time To Die</td>
+      <td>September 30, 2021</td>
+      <td>Action, Adventure</td>
+      <td>2h 43m</td>
+      <td>Cary Joji Fukunaga</td>
+    </tr>
+    <tr>
+      <td>Venom: Let There Be Carnage</td>
+      <td>October 1, 2021</td>
+      <td>Sci-fi, Action</td>
+      <td>1h 37m</td>
+      <td>Andy Serkis</td>
+    </tr>
+    <tr>
+      <td>Last Night in Soho</td>
+      <td>October 29, 2021</td>
+      <td>Horror, Psychological horror</td>
+      <td>1h 56m</td>
+      <td>Edgar Wright</td>
+    </tr>
+    <tr>
+      <td>Halloween Kills</td>
+      <td>October 15, 2021</td>
+      <td>Horror, Thriller</td>
+      <td>1h 45m</td>
+      <td>David Gordon Green</td>
+    </tr>
+    <tr>
+      <td>Spencer</td>
+      <td>November 5, 2021</td>
+      <td>Drama, Historical</td>
+      <td>1h 51m</td>
+      <td>Pablo Larraín</td>
+    </tr>
+    <tr>
+      <td>Antlers</td>
+      <td>October 29, 2021</td>
+      <td>Horror, Thriller</td>
+      <td>1h 40m</td>
+      <td>Scott Cooper</td>
+    </tr>
+    <tr>
+      <td>Ron's Gone Wrong</td>
+      <td>October 22, 2021</td>
+      <td>Animation, Family</td>
+      <td>1h 47m</td>
+      <td>Sarah Smith, J.P. Vine</td>
+    </tr>
+    <tr>
+      <td>Red Notice</td>
+      <td>November 5, 2021</td>
+      <td>Action, Thriller</td>
+      <td>1h 56m</td>
+      <td>Rawson Marshall Thurber</td>
+    </tr>
+  </table>

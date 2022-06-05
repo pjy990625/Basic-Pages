@@ -1,0 +1,53 @@
+* {
+    margin: 10px;
+    font-family: "Calibri";
+}
+
+header {
+    text-align: center;
+    background-color: #CD6155;
+}
+
+body {
+    background-color: #F2D7D5;
+}
+
+footer {
+    background-color: #CD6155;
+}
+
+#content {
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #E6B0AA;
+    background-color: #F9EBEA;
+}
+
+.highlight {
+    background: #D98880;
+}
+
+div>p {
+    background-color: #FADBD8;
+}
+
+h4~table {
+    background-color: #FADBD8;
+}
+
+tr th {
+    background-color: #E6B0AA;
+}
+
+a[target] {
+    color: #D98880;
+}
+
+a:hover {
+    background-color: rgb(130, 130, 255);
+}
+
+.schedule tr:nth-of-type(3n) {
+    background-color: rgb(130, 130, 255);
+}

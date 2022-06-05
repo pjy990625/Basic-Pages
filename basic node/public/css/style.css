@@ -1,0 +1,41 @@
+
+@import url(https://fonts.googleapis.com/css?family=Hind);
+
+html, body {
+  background-color: beige;
+  margin: 0em;
+  padding: 1em;
+}
+
+body {
+  font-family: "Hind";
+  font-size: 14pt;
+}
+
+img {
+  display: block;
+  margin: 0px auto;
+  width: 35%;
+  height: auto;
+}
+header {
+  text-align: center;
+  background-color: brown;
+  color: beige;
+  font-size: 25px;
+}
+
+.table{
+  border: 1px solid beige;
+  text-align: center;
+  max-width: 100%;
+}
+
+#newsfeed {
+  background-color: green;
+}
+
+#newsfeed2 {
+  background-color: brown;
+  color: beige;
+}
